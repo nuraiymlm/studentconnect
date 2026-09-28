@@ -1,1 +1,11 @@
-{}
+{
+  "title": "studentconnect",
+  "description": "Connect and collaborate with students through projects, skill exchange, groups, and messaging to enhance learning and networking opportunities.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
